@@ -1,4 +1,4 @@
-# NGC3---Assignment
+# NGC3-Assignment
 
 Assignment Instructions
 
